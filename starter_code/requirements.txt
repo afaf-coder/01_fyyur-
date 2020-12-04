@@ -1,0 +1,8 @@
+babel
+python-dateutil==2.6.0
+flask-moment
+flask-wtf
+WTForms~=2.3.3
+psycopg2
+phonenumbers
+forms
